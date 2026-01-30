@@ -12,7 +12,7 @@ namespace pract12_trpo.Data.Service
     public class UsersService
     {
         private readonly AppDbContext _db = BaseDbService.Instance.Context;
-        public ObservableCollection<User> Users { get; set; } = new();
+        public static ObservableCollection<User> Users { get; set; } = new();
         public UsersService()
         {
             GetAll();

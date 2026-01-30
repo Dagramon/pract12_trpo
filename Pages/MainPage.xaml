@@ -14,8 +14,8 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
         <StackPanel Grid.Row="0">
-            <Button Click="AddNavigate">Добавить</Button>
-            <Button Click="Remove">Удалить</Button>
+            <Button Click="AddNavigate" Style="{StaticResource GreenButton}">Добавить</Button>
+            <Button Click="Remove" Style="{StaticResource RedButton}">Удалить</Button>
         </StackPanel>
         <ListView Grid.Row="1"
                   ItemsSource="{Binding service.Users}"
