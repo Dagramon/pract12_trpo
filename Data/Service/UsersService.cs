@@ -25,6 +25,7 @@ namespace pract12_trpo.Data.Service
                 UserName = user.UserName,
                 Email = user.Email,
                 Password = user.Password,
+                CreatedAt = user.CreatedAt
             };
             _db.Add<User>(_user);
             Commit();

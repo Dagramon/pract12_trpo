@@ -24,11 +24,30 @@
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <StackPanel>
-                        <TextBlock Text="{Binding Id}"></TextBlock>
-                        <TextBlock Text="{Binding Login}"></TextBlock>
-                        <TextBlock Text="{Binding UserName}"></TextBlock>
-                        <TextBlock Text="{Binding Email}"></TextBlock>
-                        <TextBlock Text="{Binding Password}"></TextBlock>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="ID: "/>
+                            <TextBlock Text="{Binding Id}"></TextBlock>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Логин: "/>
+                            <TextBlock Text="{Binding Login}"></TextBlock>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Имя пользователя: "/>
+                            <TextBlock Text="{Binding UserName}"></TextBlock>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Почта: "/>
+                            <TextBlock Text="{Binding Email}"></TextBlock>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Пароль: "/>
+                            <TextBlock Text="{Binding Password}"></TextBlock>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Дата создания: "/>
+                            <TextBlock Text="{Binding CreatedAt, StringFormat={}{0:dd.MM.yyyy HH:mm}}"></TextBlock>
+                        </StackPanel>
                     </StackPanel>
                 </DataTemplate>
             </ListView.ItemTemplate>

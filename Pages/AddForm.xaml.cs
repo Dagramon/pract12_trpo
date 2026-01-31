@@ -41,7 +41,17 @@ namespace pract12_trpo.Pages
         {
             NavigationService.GoBack();
         }
-
+        private bool CheckEqualAndNull()
+        {
+            if ((_user.Login == null || _user.Login != LoginTextBox.Text) ||
+                (_user.UserName == null || _user.UserName != UserNameTextBox.Text) ||
+                (_user.Email == null || _user.Email != EmailTextBox.Text) ||
+                (_user.Password == null || _user.Password != PasswordBox.Text))
+            {
+                return false;
+            }
+            return true;
+        }
         private void Save(object sender, RoutedEventArgs e)
         {
             if (isEdit)
@@ -50,6 +60,12 @@ namespace pract12_trpo.Pages
             }
             else
             {
+                if (!CheckEqualAndNull())
+                {
+                    MessageBox.Show("Не все поля заполнены корректно");
+                    return;
+                }
+                _user.CreatedAt = DateTime.Now;
                 _service.Add(_user);
             }
             NavigationService.GoBack();

@@ -16,7 +16,7 @@ namespace pract12_trpo.Classes.Validations
 
             foreach (User user in UsersService.Users)
             {
-                if (user.UserName == inputString)
+                if (user.Login.ToLower() == inputString.ToLower())
                     return false;
             }
 
@@ -35,17 +35,17 @@ namespace pract12_trpo.Classes.Validations
             {
                 return new ValidationResult(false, "Значение не может быть пустым");
             }
+            if (!IsUnique(inputString))
+            {
+                return new ValidationResult(false, $"Логин не уникальный");
+            }
             if (inputString.Length < 5)
             {
-                return new ValidationResult(false, $"Строка должна содержать минимум 3 символа");
+                return new ValidationResult(false, $"Строка должна содержать минимум 5 символа");
             }
             if (inputString.Length > 255)
             {
                 return new ValidationResult(false, $"Строка должна содержать не более 255 символов");
-            }
-            if (!IsUnique(inputString))
-            {
-                return new ValidationResult(false, $"Логин не уникальный");
             }
 
             return ValidationResult.ValidResult;

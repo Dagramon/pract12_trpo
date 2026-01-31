@@ -6,7 +6,6 @@
     </Style>
     <Style TargetType="ListViewItem"
            BasedOn="{StaticResource MaterialDesign3.NavigationBarListBoxItem}">
-        
     </Style>
     <Style TargetType="ItemsControl"
            x:Key="ErrorText">
@@ -15,6 +14,7 @@
     <Style TargetType="TextBox"
            BasedOn="{StaticResource MaterialDesignFloatingHintTextBox}">
         <Setter Property="Background" Value="{StaticResource TextBoxBackground}"/>
+        <Setter Property="AutomationProperties.Name" Value=""/>
         <Setter Property="Validation.ErrorTemplate">
             <Setter.Value>
                 <ControlTemplate>

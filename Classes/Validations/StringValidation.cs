@@ -32,23 +32,7 @@ namespace pract12_trpo.Classes.Validations
                 return new ValidationResult(false, $"Строка должна содержать не более 255 символов");
             }
 
-            if (ContainsDigits(inputString))
-            {
-                return new ValidationResult(false, "Строка не должна содержать цифры");
-            }
-
             return ValidationResult.ValidResult;
-        }
-        private bool ContainsDigits(string input)
-        {
-            foreach (char c in input)
-            {
-                if (char.IsDigit(c))
-                {
-                    return true;
-                }
-            }
-            return false;
         }
     }
 }

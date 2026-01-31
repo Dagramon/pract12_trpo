@@ -17,10 +17,11 @@
         <StackPanel>
             <Button HorizontalAlignment="Left" Click="GoBack">Назад</Button>
         </StackPanel>
-        <StackPanel Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center" Width="200">
+        <StackPanel Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center" Width="200" Height="auto">
             <StackPanel>
                 <Label>Логин</Label>
                 <TextBox x:Name="LoginTextBox">
+                    
                     <TextBox.Text>
                         <Binding Path="Login" UpdateSourceTrigger="PropertyChanged">
                             <Binding.ValidationRules>
@@ -50,7 +51,7 @@
                         </Binding>
                     </TextBox.Text>
                 </TextBox>
-                <ItemsControl Style="{StaticResource ErrorText}"
+                <ItemsControl 
                               ItemsSource="{Binding ElementName=UserNameTextBox, Path=(Validation.Errors)}"
                               Width="200">
                     <ItemsControl.ItemTemplate>

@@ -25,7 +25,7 @@ namespace pract12_trpo.Classes.Validations
         }
         public static bool CheckEmailPattern(string inputString)
         {
-            string pattern = @"^[^@\s]+@[^@\s]+\.[^@\s]+$";
+            string pattern = @"^[^@\s]+@[^@\s]+\.+[^@\s]+$";
             return Regex.IsMatch(inputString, pattern);
         }
         public override ValidationResult Validate(object value, CultureInfo cultureInfo)
@@ -41,6 +41,10 @@ namespace pract12_trpo.Classes.Validations
             {
                 return new ValidationResult(false, "Значение не может быть пустым");
             }
+            if (!IsUnique(inputString))
+            {
+                return new ValidationResult(false, $"Адрес почты не уникальный");
+            }
             if (inputString.Length < 5)
             {
                 return new ValidationResult(false, $"Строка должна содержать минимум 5 символов");
@@ -52,10 +56,6 @@ namespace pract12_trpo.Classes.Validations
             if (inputString.Length > 255)
             {
                 return new ValidationResult(false, $"Строка должна содержать не более 255 символов");
-            }
-            if (!IsUnique(inputString))
-            {
-                return new ValidationResult(false, $"Адрес почты не уникальный");
             }
 
             return ValidationResult.ValidResult;

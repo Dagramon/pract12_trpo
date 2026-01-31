@@ -38,11 +38,11 @@ namespace pract12_trpo.Classes
             get => _password;
             set => SetProperty(ref _password, value);
         }
-        /*private DateTime _createdAt;
+        private DateTime _createdAt;
         public DateTime CreatedAt
         {
             get => _createdAt;
             set => SetProperty(ref _createdAt, value);
-        }*/
+        }
     }
 }

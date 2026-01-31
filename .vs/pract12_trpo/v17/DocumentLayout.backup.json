@@ -1,81 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\",
+  "WorkspaceRootPath": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\damir\\source\\repos\\pract12_trpo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\st310-10\\source\\repos\\pract12_trpo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\damir\\source\\repos\\pract12_trpo\\data\\service\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:data\\service\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\damir\\source\\repos\\pract12_trpo\\classes\\validations\\emailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:classes\\validations\\emailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\damir\\source\\repos\\pract12_trpo\\styles\\colors\\default.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:styles\\colors\\default.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\damir\\source\\repos\\pract12_trpo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\damir\\source\\repos\\pract12_trpo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\damir\\source\\repos\\pract12_trpo\\classes\\validations\\datevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:classes\\validations\\datevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\damir\\source\\repos\\pract12_trpo\\classes\\validations\\loginvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:classes\\validations\\loginvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\damir\\source\\repos\\pract12_trpo\\pages\\addform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:pages\\addform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\damir\\source\\repos\\pract12_trpo\\ui\\buttons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:ui\\buttons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\damir\\source\\repos\\pract12_trpo\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\damir\\source\\repos\\pract12_trpo\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\damir\\source\\repos\\pract12_trpo\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\damir\\source\\repos\\pract12_trpo\\pages\\addform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\st310-10\\source\\repos\\pract12_trpo\\pages\\addform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:pages\\addform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\damir\\source\\repos\\pract12_trpo\\classes\\validations\\stringvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:classes\\validations\\stringvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\st310-10\\source\\repos\\pract12_trpo\\pages\\addform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:pages\\addform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\damir\\source\\repos\\pract12_trpo\\classes\\validations\\passvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:classes\\validations\\passvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\st310-10\\source\\repos\\pract12_trpo\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\damir\\source\\repos\\pract12_trpo\\classes\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\st310-10\\source\\repos\\pract12_trpo\\ui\\gui.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:ui\\gui.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\st310-10\\source\\repos\\pract12_trpo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\st310-10\\source\\repos\\pract12_trpo\\ui\\buttons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:ui\\buttons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\st310-10\\source\\repos\\pract12_trpo\\classes\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:classes\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\damir\\source\\repos\\pract12_trpo\\data\\service\\basedbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\st310-10\\source\\repos\\pract12_trpo\\classes\\validations\\datevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:classes\\validations\\datevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\st310-10\\source\\repos\\pract12_trpo\\classes\\validations\\passvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:classes\\validations\\passvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\st310-10\\source\\repos\\pract12_trpo\\classes\\validations\\emailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:classes\\validations\\emailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\st310-10\\source\\repos\\pract12_trpo\\classes\\validations\\loginvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:classes\\validations\\loginvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\st310-10\\source\\repos\\pract12_trpo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\st310-10\\source\\repos\\pract12_trpo\\styles\\colors\\default.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:styles\\colors\\default.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\st310-10\\source\\repos\\pract12_trpo\\data\\service\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:data\\service\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\st310-10\\source\\repos\\pract12_trpo\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\st310-10\\source\\repos\\pract12_trpo\\data\\service\\basedbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:data\\service\\basedbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\damir\\source\\repos\\pract12_trpo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|c:\\users\\st310-10\\source\\repos\\pract12_trpo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{193CDB7D-ADD4-4BD1-BA64-5BD8BAF835F2}|pract12_trpo.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -86,17 +82,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GUI.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-10\\Source\\Repos\\pract12_trpo\\UI\\GUI.xaml",
+              "RelativeDocumentMoniker": "UI\\GUI.xaml",
+              "ToolTip": "C:\\Users\\st310-10\\Source\\Repos\\pract12_trpo\\UI\\GUI.xaml",
+              "RelativeToolTip": "UI\\GUI.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-31T04:11:15.484Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T10:05:47.374Z",
               "EditorCaption": ""
@@ -105,9 +113,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\App.xaml",
+              "ToolTip": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\App.xaml",
               "RelativeToolTip": "App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-01-28T09:44:54Z",
@@ -115,11 +123,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "AddForm.xaml",
-              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\Pages\\AddForm.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\Pages\\AddForm.xaml",
               "RelativeDocumentMoniker": "Pages\\AddForm.xaml",
-              "ToolTip": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\Pages\\AddForm.xaml",
+              "ToolTip": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\Pages\\AddForm.xaml",
               "RelativeToolTip": "Pages\\AddForm.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-01-28T09:48:15.23Z",
@@ -127,11 +135,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\Pages\\MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\Pages\\MainPage.xaml",
               "RelativeDocumentMoniker": "Pages\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\Pages\\MainPage.xaml",
               "RelativeToolTip": "Pages\\MainPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-01-28T09:42:12.567Z",
@@ -139,63 +147,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "LoginValidation.cs",
-              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\Classes\\Validations\\LoginValidation.cs",
+              "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\Classes\\Validations\\LoginValidation.cs",
               "RelativeDocumentMoniker": "Classes\\Validations\\LoginValidation.cs",
-              "ToolTip": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\Classes\\Validations\\LoginValidation.cs",
+              "ToolTip": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\Classes\\Validations\\LoginValidation.cs",
               "RelativeToolTip": "Classes\\Validations\\LoginValidation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwCcAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-30T11:35:45.598Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "DateValidation.cs",
-              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\Classes\\Validations\\DateValidation.cs",
+              "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\Classes\\Validations\\DateValidation.cs",
               "RelativeDocumentMoniker": "Classes\\Validations\\DateValidation.cs",
-              "ToolTip": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\Classes\\Validations\\DateValidation.cs",
+              "ToolTip": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\Classes\\Validations\\DateValidation.cs",
               "RelativeToolTip": "Classes\\Validations\\DateValidation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-30T11:33:56.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "UsersService.cs",
-              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\Data\\Service\\UsersService.cs",
+              "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\Data\\Service\\UsersService.cs",
               "RelativeDocumentMoniker": "Data\\Service\\UsersService.cs",
-              "ToolTip": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\Data\\Service\\UsersService.cs",
+              "ToolTip": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\Data\\Service\\UsersService.cs",
               "RelativeToolTip": "Data\\Service\\UsersService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAowBEAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T10:09:11.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "EmailValidation.cs",
-              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\Classes\\Validations\\EmailValidation.cs",
+              "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\Classes\\Validations\\EmailValidation.cs",
               "RelativeDocumentMoniker": "Classes\\Validations\\EmailValidation.cs",
-              "ToolTip": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\Classes\\Validations\\EmailValidation.cs",
+              "ToolTip": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\Classes\\Validations\\EmailValidation.cs",
               "RelativeToolTip": "Classes\\Validations\\EmailValidation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAA6wC8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-30T11:41:44.052Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "Default.xaml",
-              "DocumentMoniker": "C:\\Users\\Damir\\Source\\Repos\\pract12_trpo\\Styles\\Colors\\Default.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\Styles\\Colors\\Default.xaml",
               "RelativeDocumentMoniker": "Styles\\Colors\\Default.xaml",
-              "ToolTip": "C:\\Users\\Damir\\Source\\Repos\\pract12_trpo\\Styles\\Colors\\Default.xaml",
+              "ToolTip": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\Styles\\Colors\\Default.xaml",
               "RelativeToolTip": "Styles\\Colors\\Default.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-01-30T11:54:20.558Z",
@@ -203,11 +211,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-01-28T09:40:41.445Z",
@@ -215,24 +223,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\Classes\\User.cs",
+              "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\Classes\\User.cs",
               "RelativeDocumentMoniker": "Classes\\User.cs",
-              "ToolTip": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\Classes\\User.cs",
+              "ToolTip": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\Classes\\User.cs",
               "RelativeToolTip": "Classes\\User.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBQAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwCMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T10:06:47.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "Buttons.xaml",
-              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\UI\\Buttons.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\UI\\Buttons.xaml",
               "RelativeDocumentMoniker": "UI\\Buttons.xaml",
-              "ToolTip": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\UI\\Buttons.xaml",
+              "ToolTip": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\UI\\Buttons.xaml",
               "RelativeToolTip": "UI\\Buttons.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-01-28T09:44:02.381Z",
@@ -240,50 +248,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\Pages\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "Pages\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\Pages\\MainPage.xaml.cs",
-              "RelativeToolTip": "Pages\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T10:00:13.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
               "Title": "AddForm.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\Pages\\AddForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\Pages\\AddForm.xaml.cs",
               "RelativeDocumentMoniker": "Pages\\AddForm.xaml.cs",
-              "ToolTip": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\Pages\\AddForm.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\Pages\\AddForm.xaml.cs",
               "RelativeToolTip": "Pages\\AddForm.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADQAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAA8wC8AAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T10:02:46.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "StringValidation.cs",
-              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\Classes\\Validations\\StringValidation.cs",
-              "RelativeDocumentMoniker": "Classes\\Validations\\StringValidation.cs",
-              "ToolTip": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\Classes\\Validations\\StringValidation.cs",
-              "RelativeToolTip": "Classes\\Validations\\StringValidation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T11:50:12.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 9,
               "Title": "PassValidation.cs",
-              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\Classes\\Validations\\PassValidation.cs",
+              "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\Classes\\Validations\\PassValidation.cs",
               "RelativeDocumentMoniker": "Classes\\Validations\\PassValidation.cs",
-              "ToolTip": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\Classes\\Validations\\PassValidation.cs",
+              "ToolTip": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\Classes\\Validations\\PassValidation.cs",
               "RelativeToolTip": "Classes\\Validations\\PassValidation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -292,11 +274,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 7,
               "Title": "ObservableObject.cs",
-              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\Classes\\ObservableObject.cs",
+              "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\Classes\\ObservableObject.cs",
               "RelativeDocumentMoniker": "Classes\\ObservableObject.cs",
-              "ToolTip": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\Classes\\ObservableObject.cs",
+              "ToolTip": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\Classes\\ObservableObject.cs",
               "RelativeToolTip": "Classes\\ObservableObject.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -305,11 +287,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "BaseDbService.cs",
-              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\Data\\Service\\BaseDbService.cs",
+              "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\Data\\Service\\BaseDbService.cs",
               "RelativeDocumentMoniker": "Data\\Service\\BaseDbService.cs",
-              "ToolTip": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\Data\\Service\\BaseDbService.cs",
+              "ToolTip": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\Data\\Service\\BaseDbService.cs",
               "RelativeToolTip": "Data\\Service\\BaseDbService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -318,11 +300,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Damir\\source\\repos\\pract12_trpo\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-10\\source\\repos\\pract12_trpo\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
